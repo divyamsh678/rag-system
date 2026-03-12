@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+langchain-openai
+requests
+python-dotenv
+beautifulsoup4
+pdfplumber
+pytesseract
+pdf2image
